@@ -35,7 +35,7 @@ public class VirtualPetProgram {
 		else {
 			System.out.println("He never said he loved you.");
 		}
-		
+		sc.close();
 
 	}
 
