@@ -1,3 +1,5 @@
 ##Virtual Pet
 
-Adopt Horace
+Adopt Horace.
+
+Recommendation: learn through play before examining source

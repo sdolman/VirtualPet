@@ -104,7 +104,7 @@ public class VirtualPetProgram {
 			love++;
 			}
 		
-		System.out.println("T " + turns + " C " + complaints);
+//		System.out.println("T " + turns + " C " + complaints);
 	}
 
 }
